@@ -1,0 +1,23 @@
+.tree {
+    margin: 0 0 0 20px;
+    padding: 0;
+}
+
+.item {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    padding: 4px;
+}
+
+.item:hover {
+    background-color: cadetblue;
+}
+
+.actionBtn {
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background: transparent;
+    margin-right: 4px;
+}
